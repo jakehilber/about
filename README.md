@@ -1,5 +1,5 @@
 
- Welcome to My GitHub 👋
+# Welcome to My GitHub 👋
 
 Hi, I’m Jake.
 
@@ -10,6 +10,8 @@ After graduation, I worked in Minneapolis, MN as a Cisco Network, Voice, Video, 
 ## About Me
 
 - On **Team Human**, working *with* AI  
+- Background in infrastructure, networking, and large‑scale systems  
+- Currently learning **data science** and growing as a **technology strategist**  
 - Enjoy nature, camping, food, travel, and good company  
 - Easy to work with and adaptable across teams  
 - Expanding into the **development side** of engineering, which is why I started this GitHub  
