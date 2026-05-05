@@ -4,7 +4,7 @@
 
 Hi, I’m Jake.
 
-I grew up in central Wisconsin, USA, and have worked in IT since high school, starting as an intern in my local government’s IT department. During high school, I earned my CCNA and later completed a bachelor’s degree at the University of Wisconsin–Stout in Menomonie, WI.
+I grew up in Marshfield Wisconsin, USA, and worked in IT since high school, starting as an intern in my local government’s IT department (supported police, fire, building/assesor. etc). During high school, I earned my CCNA and later completed a bachelor’s degree at the University of Wisconsin–Stout in Menomonie, WI.
 
 After graduation, I worked in Minneapolis, MN as a Cisco Network, Voice, Video, and Call Center Engineer. Since then, I’ve had the opportunity to travel while continuing to learn and work with modern information systems.
 
