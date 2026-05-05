@@ -1,16 +1,18 @@
-# Welcome to My GitHub
 
-Hello, my name is Jake 👋  
+ Welcome to My GitHub 👋
 
-I grew up in central Wisconsin USA and have been working in IT since I was a highschool intern at for my local government IT department. In high school I got my CCNA. I have a bachelors degree from the Univeristy of Wisconsin-Stout which is based in the small town of Menomonie WI USA. Later I worked in Minneapolis MN USA as a Cisco network, voice, video and call center engineer. Then I began traveling Earth while still learing about modern day information systems.
+Hi, I’m Jake.
+
+I grew up in central Wisconsin, USA, and have worked in IT since high school, starting as an intern in my local government’s IT department. During high school, I earned my CCNA and later completed a bachelor’s degree at the University of Wisconsin–Stout in Menomonie, WI.
+
+After graduation, I worked in Minneapolis, MN as a Cisco Network, Voice, Video, and Call Center Engineer. Since then, I’ve had the opportunity to travel while continuing to learn and work with modern information systems.
 
 ## About Me
 
-I'm on team human and work with AI.
-I enjoy nature and camping.
-I enjoy food, travel and friends.
-I can work with almost anyone.
-I'm learning the development side of the house so I opened this github account.
+- On **Team Human**, working *with* AI  
+- Enjoy nature, camping, food, travel, and good company  
+- Easy to work with and adaptable across teams  
+- Expanding into the **development side** of engineering, which is why I started this GitHub  
 
-Thanks,
-Jake
+Thanks for stopping by,  
+**Jake**
