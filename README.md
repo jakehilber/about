@@ -1,6 +1,6 @@
 
 
-# Welcome to My GitHub 👋
+# Welcome 👋 
 
 Hi, I’m Jake.
 
