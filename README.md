@@ -16,7 +16,7 @@ After graduation, I worked in the U.S. as a Cisco network, voice, video, and cal
 - Enjoy nature, camping, food, travel, and good company  
 - Easy to work with and adaptable across teams  
 - Expanding into the **development side** of engineering, which is why I started this GitHub
-- When I find spare time, I like to prode the topics such as quantum mechanics or the Vietnamese language. 
+- When I find spare time, I like to prode more obscure topics such as quantum mechanics or the Vietnamese language. 
 
 Thanks for stopping by,  
 **Jake**
