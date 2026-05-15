@@ -13,7 +13,7 @@ After graduation, I worked in the U.S. as a Cisco network, voice, video, and cal
 - On **Team Human**, working *with* AI  
 - Background in infrastructure, networking, systems design, security, data centers and large‑scale systems  
 - Currently learning **data science** and growing as a **technology strategist or principal architect**  
-- Enjoy nature, camping, food, travel, and good company  
+- Enjoy nature, camping, food, travel, badmidton and good company  
 - Easy to work with and adaptable across teams  
 - Expanding into the **development side** of engineering, which is why I started this GitHub
 - When I find spare time, I like to prode more obscure topics such as quantum mechanics or the Vietnamese language
