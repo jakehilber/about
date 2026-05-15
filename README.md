@@ -11,7 +11,7 @@ After graduation, I worked in the U.S. as a Cisco network, voice, video, and cal
 ## About Me
 
 - On **Team Human**, working *with* AI  
-- Background in infrastructure, networking, security and large‑scale systems  
+- Background in infrastructure, networking, systems design, security, data centers and large‑scale systems  
 - Currently learning **data science** and growing as a **technology strategist or principal architect**  
 - Enjoy nature, camping, food, travel, and good company  
 - Easy to work with and adaptable across teams  
