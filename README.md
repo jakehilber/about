@@ -36,7 +36,7 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - Badminton  
 - Exploring topics like **quantum mechanics** and **Vietnamese language**
 
-- 
+
 ## 🧭 Leadership
 
 - Led design and deployment of large-scale network and communication systems across global environments
