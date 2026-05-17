@@ -1,4 +1,3 @@
-
 ## 👋 Hi, I’m Jake
 
 I’m a Principal Engineer from Wisconsin, USA, with a background in networking, infrastructure, and large-scale systems design.
@@ -44,5 +43,3 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - Mentored engineers and helped grow technical capabilities within teams
 - Drove standardization and best practices across distributed environments
 - Bridged gaps between operations, engineering, and business stakeholders
-``
-
