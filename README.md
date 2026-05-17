@@ -2,7 +2,7 @@
 
 I’m a Principal Engineer from Wisconsin, USA, with a background in networking, infrastructure, and large-scale systems design.
 
-I started my career supporting municipal IT systems (police, fire, and city services), earned my CCNA during high school, and completed my degree at the University of Wisconsin–Stout. Since then, I’ve worked as a Cisco-focused network, voice, and contact center engineer/architect.
+I started my career supporting municipal IT systems (police, fire, and city services), earned my CCNA during high school, and completed my degree at the University of Wisconsin–Stout. Since then, I’ve worked primarily as a Cisco-focused network, voice, and contact center engineer/architect.
 
 Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, supporting global operations and modern distributed systems.
 
