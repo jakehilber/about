@@ -1,22 +1,37 @@
 
+## 👋 Hi, I’m Jake
 
-# Welcome 👋 
+I’m a Principal Engineer from Wisconsin, USA, with a background in networking, infrastructure, and large-scale systems design.
 
-Hi, I’m Jake.
+I started my career supporting municipal IT systems (police, fire, and city services), earned my CCNA during high school, and completed my degree at the University of Wisconsin–Stout. Since then, I’ve worked as a Cisco-focused network, voice, and contact center engineer/architect.
 
-I grew up in Wisconsin, USA, and have been working in IT since high school. I started as an intern in my local government’s IT department, supporting police, fire, building/assessor, and other municipal services. During high school, I earned my CCNA and later completed my bachelor’s degree at the University of Wisconsin–Stout in Menomonie, WI.
+Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, supporting global operations and modern distributed systems.
 
-After graduation, I worked in the U.S. as a Cisco network, voice, video, and call center engineer/architect. For the past eight years, I’ve had the opportunity to live and travel throughout the Asia-Pacific region while continuing to work with modern information systems, with a focus on global operations.
+---
 
-## About Me
+## 🧠 About Me
 
-- On **Team Human**, working *with* AI  
-- Background in infrastructure, networking, systems design, security, data centers and large‑scale systems  
-- Currently learning **data science** and growing as a **technology strategist or principal architect**  
-- Enjoy nature, camping, food, travel, badminton and good company  
-- Easy to work with and adaptable across teams  
-- Expanding into the **development side** of engineering, which is why I started this GitHub
-- When I find spare time, I like to explore other topics such as quantum mechanics or the Vietnamese language
+- 🤝 On **Team Human, working with AI**
+- 🌐 Experience across infrastructure, networking, security, and data centers
+- 📈 Growing into a **technology strategist / principal architect**
+- 💻 Expanding into **software and development-oriented engineering**
+- 📊 Currently learning **data science and analytics**
+- 🌏 Global experience across U.S. and APAC
 
-Thanks for stopping by,  
-**Jake**
+---
+
+## 🚀 Current Focus
+
+- Building deeper expertise in **data + systems integration**
+- Bridging **infrastructure and software engineering**
+- Exploring **AI-assisted engineering workflows**
+- Developing more hands-on projects here on GitHub
+
+---
+
+## 🎯 Interests
+
+- Nature, camping, and travel  
+- Food and culture  
+- Badminton  
+- Exploring topics like **quantum mechanics** and **Vietnamese language**
