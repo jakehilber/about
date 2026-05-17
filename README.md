@@ -35,11 +35,3 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - Badminton  
 - Exploring topics like **quantum mechanics** and **Vietnamese language**
 
-
-## 🧭 Leadership
-
-- Led design and deployment of large-scale network and communication systems across global environments
-- Acted as a technical leader for cross-functional teams spanning infrastructure, security, and application domains
-- Mentored engineers and helped grow technical capabilities within teams
-- Drove standardization and best practices across distributed environments
-- Bridged gaps between operations, engineering, and business stakeholders
