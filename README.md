@@ -16,6 +16,8 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - 💻 Expanding into **software and development-oriented engineering**
 - 📊 Currently learning **data science and analytics**
 - 🌏 Global experience across U.S. and APAC
+- ⚖️ Experience supporting legal and technical depositions
+- 🛰️ Honorably discharged U.S. veteran, S2 TOC
 
 ---
 
