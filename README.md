@@ -36,6 +36,6 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - Badminton  
 - Exploring **quantum mechanics**, **cryptography** and **Vietnamese language**
 
-## 🌐 Website for testing
+## 🌐 Test Site
 
 https://jakehilber.github.io/
