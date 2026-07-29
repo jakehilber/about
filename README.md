@@ -38,6 +38,8 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 
 ---
 
-## 🌐 Test Site
+## 🌐 Resume Sites
 
 https://jakehilber.github.io/
+https://www.linkedin.com/in/jakehilber/
+
