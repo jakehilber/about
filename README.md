@@ -34,7 +34,7 @@ Over the past 8 years, I’ve lived and worked across the Asia-Pacific region, s
 - Nature, camping, and travel  
 - Food and culture  
 - Badminton  
-- Exploring **quantum mechanics**, **cryptography** and **Vietnamese language**
+- Exploring **quantum mechanics** and **cryptography**
 
 ---
 
